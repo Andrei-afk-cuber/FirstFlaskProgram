@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Donald Trump",
+    "candidate_position": "1",
+    "abilities": "smoking, fame"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "candidate_position": "2",
+    "abilities": "crying"
+  },
+  {
+    "name": "Joe Biden", 
+    "candidate_position": "3",
+    "abilities": "flying, lost items"
+  }
+]
